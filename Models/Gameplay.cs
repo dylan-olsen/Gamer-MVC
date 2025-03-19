@@ -1,6 +1,6 @@
 ﻿namespace GamerInfoApp.Models
 {
-    public class Gameplays
+    public class Gameplay
     {
         public int Id { get; set; }  // Primary Key
 

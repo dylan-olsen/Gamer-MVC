@@ -8,7 +8,7 @@
         public int Score { get; set; }  // Overall score/rank of the gamer
        
         // Navigation property (1 Gamer can have many Gameplays)
-        public ICollection<Gameplay> Gameplays { get; set; }
+        public ICollection<Gameplay> Gameplay { get; set; }
 
     }
 }
