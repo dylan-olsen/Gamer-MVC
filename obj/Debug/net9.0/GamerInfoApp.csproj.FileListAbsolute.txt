@@ -1,0 +1,8 @@
+C:\Users\dylan\source\repos\GamerInfoApp\obj\Debug\net9.0\GamerInfoApp.csproj.AssemblyReference.cache
+C:\Users\dylan\source\repos\GamerInfoApp\obj\Debug\net9.0\GamerInfoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dylan\source\repos\GamerInfoApp\obj\Debug\net9.0\GamerInfoApp.AssemblyInfoInputs.cache
+C:\Users\dylan\source\repos\GamerInfoApp\obj\Debug\net9.0\GamerInfoApp.AssemblyInfo.cs
+C:\Users\dylan\source\repos\GamerInfoApp\obj\Debug\net9.0\GamerInfoApp.csproj.CoreCompileInputs.cache
+C:\Users\dylan\source\repos\GamerInfoApp\obj\Debug\net9.0\GamerInfoApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dylan\source\repos\GamerInfoApp\obj\Debug\net9.0\GamerInfoApp.RazorAssemblyInfo.cache
+C:\Users\dylan\source\repos\GamerInfoApp\obj\Debug\net9.0\GamerInfoApp.RazorAssemblyInfo.cs
